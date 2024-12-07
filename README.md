@@ -1,4 +1,4 @@
-# Inteligencia-Artificial
+# Inteligência Artificial
 
 ## Disciplina de Inteligência Artificial
 
